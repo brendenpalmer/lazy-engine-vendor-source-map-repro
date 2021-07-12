@@ -1,0 +1,6 @@
+{
+  "name": "foo-bar-vendor-import",
+  "keywords": [
+    "ember-addon"
+  ]
+}
